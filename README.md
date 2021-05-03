@@ -33,16 +33,3 @@ The best way to get started with Turbo iOS to try out the demo app first to get 
 - [Migration](Docs/Migration.md)
 - [Advanced](Docs/Advanced.md)
 
-## Contributing
-
-Turbo iOS is open-source software, freely distributable under the terms of an [MIT-style license](LICENSE). The [source code is hosted on GitHub](https://github.com/hotwired/turbo-ios).
-Development is sponsored by [Basecamp](https://basecamp.com/).
-
-We welcome contributions in the form of bug reports, pull requests, or thoughtful discussions in the [GitHub issue tracker](https://github.com/hotwired/turbo-ios/issues).
-
-Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
-
----
-
-© 2020 Basecamp, LLC
-
